@@ -1,0 +1,24 @@
+name,parent,size
+Mapa wydatków państwa,root,
+Edukacja,Mapa wydatków państwa,
+,,
+Wydatki gmin na szkoły podstawowe i gimnazja,Edukacja,31495
+Wydatki miast na prawach powiatu na szkoły podstawowe średnie I gimnazja,Edukacja,20041
+Wydatki powiatów na szkoły średnie,Edukacja,7077
+Wydatki samorządów na edukacyjną opiekę wychowawczą,Edukacja,4946
+Wydatki województw na oświatę,Edukacja,2612
+Szkoły artystyczne,Edukacja,810
+Technika rolnicze,Edukacja,162
+Szkoły podległe rządowi,Edukacja,1120
+Pozostałe wydatki,Edukacja,547
+Komiesje egzaminacyjne,Edukacja,215
+Kuratoria oświaty,Edukacja,155
+Dokształcanie nauczycieli,Edukacja,70
+Szkolnictwo polskie za granicą,Edukacja,45
+Utrzymanie Ministerstwa Edukacji,Edukacja,42
+Pomoc społeczna,Mapa wydatków państwa,
+Pomoc społeczna samorządów,Pomoc społeczna,24833
+Rządowa pomoc społeczna,Pomoc społeczna,17433
+Inne zadania polityki społecznej samorządów,Pomoc społeczna,2969
+Urząd ds. Kombatantów I Osób Represjonowanych,Pomoc społeczna,29
+Bary mleczne,Pomoc społeczna,11
